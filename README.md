@@ -15,4 +15,4 @@
 
 
 
-![](https://github.com/fantasy2943/freeprogrammingbooks/blob/master/ProgrammingBook.png500X500)
+![](https://github.com/fantasy2943/freeprogrammingbooks/blob/master/ProgrammingBook.png = 300x300)
