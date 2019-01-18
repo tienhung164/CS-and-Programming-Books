@@ -27,5 +27,8 @@ Contributing sharing an ebook
 
 #### P/s: Sorry for a longtime I cannot update the new books because I have some other stuff to do. However, in this year - 2019 I will be back and this responsitory will have more free programming books. Also, I will concentrate on creating some responsitories about what I have learnt about JavaScript and some other web programming languages.
 
+####      Some of these books on this responsitory have the copyright of the authors, if you want to support them, buy their books to read and learn.
+
+
 
 
