@@ -19,7 +19,7 @@ Contributing sharing an ebook
 1. Fork it!
 2. Add a new book: git checkout -b your-book-name
 3. Commit your changes: git commit
-4. Push to the branch: git push ####master your-book-name
+4. Push to the branch: git push master your-book-name
 5. Submit a pull request
 
 
