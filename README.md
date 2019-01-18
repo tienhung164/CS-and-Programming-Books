@@ -1,7 +1,7 @@
 
 ### 50+ FREE Programming Books
 
-## Many good and free programming books are always up to date at here. Lots of topics include:
+## Many practical and free programming books are always up to date at here. Lots of topics include:
 * Popular Programming languages.
 * Algorithms.
 * Code examples.
