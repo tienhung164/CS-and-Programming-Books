@@ -15,5 +15,7 @@
 ### OR If You Can:
 #### We need each other to make it looks better, any programming books if you want to share with others please add to this respository. Thanks for your contribution. Happy coding!
 
+#### P/s: Sorry for a longtime I cannot update the new books because I have some other stuff to do. However, in this year - 2019 I will be back and this responsitory will have more free programming books. Also, I will concentrate on creating some responsitories about what I have learnt about JavaScript and some other web programming languages.
+
 
 
