@@ -11,7 +11,7 @@
 
 ![](https://static1.squarespace.com/static/5288f78fe4b088c60f4c3232/t/56cd8bae27d4bddd6eb92c55/1456311229588/)
 ## You Can:
-* Fork my responsitory.
+* Fork my responsitory
 * Clone or download these programming books for free
 * Read direct on Github
 ### OR If You Can:
