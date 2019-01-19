@@ -13,7 +13,7 @@
 ## You Can:
 * Fork my responsitory.
 * Clone or download these programming books for free.
-* Read direct on Github.
+* Read direct on Github
 ### OR If You Can:
 #### We need each other to make it looks better, any programming books if you want to share with others please add to this respository. Thanks for your contribution. Happy coding!
 
