@@ -17,6 +17,7 @@
 ### OR If You Can:
 #### We need each other to make it looks better, any programming books if you want to share with others please add to this respository. Thanks for your contribution. Happy coding!
 
+Note for contributors
 Contributing sharing an ebook
 1. Fork it!
 2. Add a new book: git checkout -b your-book-name
