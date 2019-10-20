@@ -1,13 +1,10 @@
-
-### 50+ FREE Programming Books
-
-## Many practical and free programming books are always up to date at here. Lots of topics include:
+## Many practical and free programming books are always up to date at here. Which including:
 * Popular Programming languages
 * Algorithms
 * Code examples
 * Computer Science
 * Practice programming languages via projects...
-## Lists of free programming books via categories:
+## Lists of free programming books via programming languages:
 - Data Structure and Algorithm:
     - [Introduction to Algorithm](https://github.com/namvdo/CS-and-Programming-Books/blob/master/algorithm_books/Introduction%20to%20Algorithms.pdf)
     - [Algorithms Notes for Professional](https://github.com/namvdo/CS-and-Programming-Books/blob/master/algorithm_books/AlgorithmsNotesForProfessionals.pdf)
