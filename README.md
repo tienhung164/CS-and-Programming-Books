@@ -1,10 +1,10 @@
 ## Many practical and free programming books are always up to date.
-* Popular Programming languages
+* Popular programming languages
 * Algorithms
 * Code examples
 * Computer Science
 * Practice programming skills via projects...
-## Lists of free programming books via programming languages:
+## Lists of free programming books by programming languages:
 - Data Structure and Algorithm:
     - [Introduction to Algorithm](https://github.com/namvdo/CS-and-Programming-Books/blob/master/algorithm_books/Introduction%20to%20Algorithms.pdf)
     - [Algorithms Notes for Professional](https://github.com/namvdo/CS-and-Programming-Books/blob/master/algorithm_books/AlgorithmsNotesForProfessionals.pdf)
@@ -22,9 +22,7 @@
     - Python
     - PHP
     - Java
-## Listed by programming languages: 
-- Assembly 
-
+## Preview image: 
 ![](https://github.com/namvdo/CS-and-Programming-Books/blob/master/Screen%20Shot%202019-05-16%20at%2007.56.59.png)
 ## You Can:
 * Fork my responsitory
